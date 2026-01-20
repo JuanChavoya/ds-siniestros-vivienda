@@ -1,6 +1,6 @@
 # Análisis de Siniestros de Vivienda por Sector
 
-## Executive Summary
+## Resumen Ejecutivo
 Este proyecto analiza datos históricos de siniestros de vivienda con el objetivo de estimar el nivel de riesgo por sector. A partir de métricas de frecuencia, severidad y una prima indicativa por vivienda, se muestra cómo los datos pueden apoyar procesos de análisis actuarial y de gestión de riesgos.
 
 ---
